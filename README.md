@@ -42,13 +42,9 @@ To replicate or explore the analysis:
 
 ## Contributors
 
-- Seu Nome - Desenvolvedor principal
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+- Lucas Rocha
 
 ## Acknowledgments
 
 - This analysis was inspired by the need to understand GitHub usage patterns across different regions.
-- Special thanks to Nome da Fonte dos Dados for providing the dataset.
+- Special thanks to professor Jose Maria for providing the dataset.
